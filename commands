@@ -1,6 +1,6 @@
 git clone "remote path"
 git push origin branch
-git pull 
-git init 
+git pull : chnages in ramote repository to local repository
+git init : for initializing empty git repository
 git add -A
 git commit -m " adding"
