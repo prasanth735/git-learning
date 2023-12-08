@@ -4,3 +4,5 @@ git pull : chnages in ramote repository to local repository
 git init : for initializing empty git repository
 git add -A
 git commit -m " adding"
+git status: to list all untracked files
+
